@@ -1,5 +1,5 @@
 # react-native-type-script-crypto
-
+ 
 Application made in React-native with Typescript.
 
 Read data from the coingecko page api
