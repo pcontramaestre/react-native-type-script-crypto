@@ -1,4 +1,4 @@
-# react-native-type-script-cypto
+# react-native-type-script-crypto
 
 Application made in React-native with Typescript.
 
