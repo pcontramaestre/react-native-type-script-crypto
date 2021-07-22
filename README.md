@@ -1,5 +1,12 @@
 # react-native-type-script-cypto
-Reference https://github.com/FaztWeb/react-native-coingecko-api
+
+Application made in React-native with Typescript.
+
+Read data from the coingecko page api
+
+Based on https://github.com/FaztWeb/react-native-coingecko-api
+
+
 
 Switching from JS to TS TypeScript
 
